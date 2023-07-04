@@ -8,7 +8,7 @@ Some inspiration for this theme was Atoms dark-one theme, gruvbox and others.
 
 ## Preview:
 
-![dalailahner-dark theme in VSCode](https://raw.githubusercontent.com/dalailahner/dalailahner-dark/master/img/screenshot1.png)
+![dalailahner-dark theme in VSCode](https://raw.githubusercontent.com/dalailahner/dalailahner-dark/main/screenshot1.png)
 
 ---
 
