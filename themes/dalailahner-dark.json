@@ -232,6 +232,11 @@
       "settings": { "foreground": "#CD231D" }
     },
     {
+      "name": "Entity Other Attribute Pseudo Class",
+      "scope": ["entity.other.attribute-name.pseudo-class.css"],
+      "settings": { "foreground": "#E64CB2" }
+    },
+    {
       "name": "Meta Class",
       "scope": ["meta.class"],
       "settings": { "foreground": "#DFBF20" }
@@ -1296,7 +1301,6 @@
     "foreground": "#cd231d",
     "focusBorder": "#cd231d",
     "selection.background": "#cd231d1a",
-    "scrollbar.shadow": "#000000",
     "activityBar.foreground": "#cd231d",
     "activityBar.background": "#232323",
     "activityBar.inactiveForeground": "#cd231d",
@@ -1481,6 +1485,7 @@
     "tab.hoverForeground": "#d9d9d9",
     "tab.hoverBackground": "#cd231d1a",
     "tab.hoverBorder": "#00000000",
+    "scrollbar.shadow": "#000000",
     "scrollbarSlider.background": "#8080801a",
     "scrollbarSlider.hoverBackground": "#80808026",
     "scrollbarSlider.activeBackground": "#80808026",
@@ -1561,7 +1566,7 @@
     "minimap.selectionHighlight": "#80808033",
     "minimap.errorHighlight": "#cc6966",
     "minimap.warningHighlight": "#cc9166",
-    "minimap.background": "#1c1c1c",
+    "minimap.background": "#8080800D",
     "sideBar.dropBackground": "#cd231d",
     "editorGroup.emptyBackground": "#1c1c1c",
     "panelSection.border": "#80808059",
