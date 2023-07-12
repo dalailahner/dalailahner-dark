@@ -1177,6 +1177,11 @@
       "settings": { "foreground": "#EB4D47" }
     },
     {
+      "name": "Powershell Variable Punctuation Definition",
+      "scope": "punctuation.definition.variable.powershell",
+      "settings": { "foreground": "#EB4D47" }
+    },
+    {
       "name": "[VSCODE-CUSTOM] Css Support Constant Value",
       "scope": "support.constant.property-value.css",
       "settings": { "foreground": "#CCBB66" }

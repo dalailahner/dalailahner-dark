@@ -4,6 +4,12 @@ All notable changes to the "dalailahner-dark" extension will be documented in th
 
 ---
 
+## [1.0.4] - 2023-07-12
+
+- changed Powershell variable punctuation color
+
+---
+
 ## [1.0.3] - 2023-07-08
 
 - changed "dirty" tabs top border color
