@@ -2,7 +2,7 @@
   "name": "dalailahner-dark",
   "displayName": "dalailahner dark",
   "description": "Dark theme with a sultry red as main accent color.",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "publisher": "dalailahner",
   "engines": {
     "vscode": "^1.79.0"

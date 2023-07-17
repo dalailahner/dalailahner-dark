@@ -4,6 +4,12 @@ All notable changes to the "dalailahner-dark" extension will be documented in th
 
 ---
 
+## [1.0.6] - 2023-07-17
+
+- added support for bracketPairColorization
+
+---
+
 ## [1.0.5] - 2023-07-17
 
 - css pseudo element color
