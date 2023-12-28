@@ -4,6 +4,12 @@ All notable changes to the "dalailahner-dark" extension will be documented in th
 
 ---
 
+## [1.0.7] - 2023-12-28
+
+- tweaked meta.property-name.css to display as normal property color (e.g.: aspect-ratio in CSS)
+
+---
+
 ## [1.0.6] - 2023-07-17
 
 - added support for bracketPairColorization
