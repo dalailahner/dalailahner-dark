@@ -4,6 +4,15 @@ All notable changes to the "dalailahner-dark" extension will be documented in th
 
 ---
 
+## [1.1.0] - 2024-02-10
+
+- added basic support for PostCSS Language Support
+- changed color for pseudo elements to differentiate them from classes
+- explicitly set color for the "&" symbol in nesting CSS
+- updated year in licence
+
+---
+
 ## [1.0.7] - 2023-12-28
 
 - tweaked meta.property-name.css to display as normal property color (e.g.: aspect-ratio in CSS)
