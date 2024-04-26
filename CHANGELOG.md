@@ -4,6 +4,14 @@ All notable changes to the "dalailahner-dark" extension will be documented in th
 
 ---
 
+## [2.0.0] - 2024-04-26
+
+- added TextMate grammar for CSS
+- updated license
+- updated screenshot
+
+---
+
 ## [1.1.0] - 2024-02-10
 
 - added basic support for PostCSS Language Support

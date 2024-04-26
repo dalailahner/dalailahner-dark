@@ -20,4 +20,4 @@ You can use any font with this theme you'd like but I prefer [Hack](https://sour
 
 ## License
 
-[MIT](https://en.wikipedia.org/wiki/MIT_License)
+[GLWTS](https://github.com/dalailahner/dalailahner-dark/blob/main/LICENSE)

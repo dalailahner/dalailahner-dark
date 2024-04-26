@@ -2,7 +2,7 @@
   "name": "dalailahner-dark",
   "displayName": "dalailahner dark",
   "description": "Dark theme with a sultry red as main accent color.",
-  "version": "1.1.0",
+  "version": "2.0.0",
   "publisher": "dalailahner",
   "engines": {
     "vscode": "^1.79.0"
@@ -32,6 +32,13 @@
     "dark red theme"
   ],
   "contributes": {
+    "grammars": [
+      {
+        "language": "css",
+        "scopeName": "source.css",
+        "path": "./syntaxes/source.css.tmLanguage.json"
+      }
+    ],
     "themes": [
       {
         "label": "dalailahner dark",
