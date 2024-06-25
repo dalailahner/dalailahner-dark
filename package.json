@@ -46,5 +46,11 @@
         "path": "./themes/dalailahner-dark.json"
       }
     ]
+  },
+  "devDependencies": {
+    "x-var": "^2.0.1"
+  },
+  "scripts": {
+    "publish": "x-env echo login with key: $API_KEY"
   }
 }
