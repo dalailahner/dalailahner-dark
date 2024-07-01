@@ -2,7 +2,7 @@
   "name": "dalailahner-dark",
   "displayName": "dalailahner dark",
   "description": "Dark theme with a sultry red as main accent color.",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "publisher": "dalailahner",
   "engines": {
     "vscode": "^1.79.0"
@@ -47,10 +47,9 @@
       }
     ]
   },
-  "devDependencies": {
-    "x-var": "^2.0.1"
-  },
   "scripts": {
-    "publish": "x-env echo login with key: $API_KEY"
+    "build": "vsce package",
+    "login": "vsce login dalailahner",
+    "publish": "vsce publish"
   }
 }

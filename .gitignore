@@ -1,5 +1,5 @@
 .vscode
 .vscodeignore
 .env
+package-lock.json
 *.vsix
-accessToken.txt
