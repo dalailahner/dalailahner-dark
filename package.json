@@ -51,5 +51,8 @@
     "build": "vsce package",
     "login": "vsce login dalailahner",
     "publish": "vsce publish"
+  },
+  "devDependencies": {
+    "@vscode/vsce": "^2.30.0"
   }
 }
